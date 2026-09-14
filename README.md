@@ -37,5 +37,5 @@
 ### 📫 How to find me
 
 - **Email:** miguel.angelocfarias@gmail.com
-- **LinkedIn:** linkedin.com/in/miguel-ângelo-chaves-farias-418689425
+- **LinkedIn:** https://www.linkedin.com/in/miguel-%C3%A2ngelo-chaves-farias-418689425/
 
