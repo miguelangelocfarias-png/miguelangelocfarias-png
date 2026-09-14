@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Systems Analysis and Development student at ** Universidade de Fortaleza**-**Unifor**
+- 🎓 Systems Analysis and Development student at **Universidade de Fortaleza**-**Unifor**
 - 🤖 Member of the **Artificial Intelligence Study Group** at Unifor
 - 📚 Studying **Node.js** (Rocketseat) and **Python** (Curso em Vídeo)
 - 🌐 Practicing **English** daily
